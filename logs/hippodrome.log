@@ -1,0 +1,55 @@
+2026-01-18 13:32:25.593 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2026-01-18 13:32:25.596 INFO  Main: Начало скачек. Количество участников: 7
+2026-01-18 13:32:26.415 INFO  Main: Окончание скачек. Победитель: Cherry
+2026-01-18 13:33:10.262 DEBUG Hippodrome: Создание Hippodrome, лошадей [3]
+2026-01-18 13:33:10.277 DEBUG Hippodrome: Создание Hippodrome, лошадей [2]
+2026-01-18 13:33:10.282 ERROR Hippodrome: Horses list is null.
+2026-01-18 13:33:10.284 ERROR Hippodrome: Horses list is empty.
+2026-01-18 13:33:10.286 DEBUG Hippodrome: Создание Hippodrome, лошадей [3]
+2026-01-18 13:33:10.288 DEBUG Hippodrome: Создание Hippodrome, лошадей [30]
+2026-01-18 13:33:10.669 DEBUG Hippodrome: Создание Hippodrome, лошадей [50]
+2026-01-18 13:33:10.763 ERROR Horse: Distance is negative.
+2026-01-18 13:33:10.766 ERROR Horse: Name is null.
+2026-01-18 13:33:10.831 ERROR Horse: Name is blank.
+2026-01-18 13:33:10.836 ERROR Horse: Name is blank.
+2026-01-18 13:33:10.838 ERROR Horse: Name is blank.
+2026-01-18 13:33:10.840 ERROR Horse: Name is blank.
+2026-01-18 13:33:10.843 ERROR Horse: Name is blank.
+2026-01-18 13:33:10.846 ERROR Horse: Name is blank.
+2026-01-18 13:33:10.848 ERROR Horse: Speed is negative.
+2026-01-18 13:53:17.893 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2026-01-18 13:53:17.895 INFO  Main: Начало скачек. Количество участников: 7
+2026-01-18 13:53:18.730 INFO  Main: Окончание скачек. Победитель: Cherry
+2026-01-18 13:54:00.633 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2026-01-18 13:54:00.635 INFO  Main: Начало скачек. Количество участников: 7
+2026-01-18 13:54:01.454 INFO  Main: Окончание скачек. Победитель: Lobster
+2026-01-18 13:54:13.213 ERROR Horse: Name is null.
+2026-01-18 13:54:13.216 ERROR Horse: Distance is negative.
+2026-01-18 13:54:13.218 ERROR Horse: Speed is negative.
+2026-01-18 13:54:13.253 ERROR Horse: Name is blank.
+2026-01-18 13:54:13.259 ERROR Horse: Name is blank.
+2026-01-18 13:54:13.260 ERROR Horse: Name is blank.
+2026-01-18 13:54:13.262 ERROR Horse: Name is blank.
+2026-01-18 13:54:13.264 ERROR Horse: Name is blank.
+2026-01-18 13:54:13.266 ERROR Horse: Name is blank.
+2026-01-18 13:54:13.268 ERROR Horse: Name is blank.
+2026-01-18 13:54:27.609 DEBUG Hippodrome: Создание Hippodrome, лошадей [3]
+2026-01-18 13:54:27.618 DEBUG Hippodrome: Создание Hippodrome, лошадей [2]
+2026-01-18 13:54:28.017 DEBUG Hippodrome: Создание Hippodrome, лошадей [50]
+2026-01-18 13:54:28.066 ERROR Hippodrome: Horses list is null.
+2026-01-18 13:54:28.068 ERROR Hippodrome: Horses list is empty.
+2026-01-18 13:54:28.070 DEBUG Hippodrome: Создание Hippodrome, лошадей [3]
+2026-01-18 13:54:28.075 DEBUG Hippodrome: Создание Hippodrome, лошадей [30]
+2026-01-18 13:54:55.337 ERROR Horse: Name is null.
+2026-01-18 13:54:55.340 ERROR Horse: Distance is negative.
+2026-01-18 13:54:55.342 ERROR Horse: Speed is negative.
+2026-01-18 13:54:55.377 ERROR Horse: Name is blank.
+2026-01-18 13:54:55.383 ERROR Horse: Name is blank.
+2026-01-18 13:54:55.384 ERROR Horse: Name is blank.
+2026-01-18 13:54:55.386 ERROR Horse: Name is blank.
+2026-01-18 13:54:55.388 ERROR Horse: Name is blank.
+2026-01-18 13:54:55.390 ERROR Horse: Name is blank.
+2026-01-18 13:54:55.392 ERROR Horse: Name is blank.
+2026-01-18 13:55:06.111 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2026-01-18 13:55:06.113 INFO  Main: Начало скачек. Количество участников: 7
+2026-01-18 13:55:06.931 INFO  Main: Окончание скачек. Победитель: Bucephalus
